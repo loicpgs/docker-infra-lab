@@ -19,10 +19,12 @@ This project is a complete Docker-based infrastructure lab designed to simulate 
 ## Usage
 Start the environment:
 
+```bash
 docker compose up -d
 
 stop the environment:
 
+```bash
 docker compose down
 
 ## Access
