@@ -19,14 +19,14 @@ This project is a complete Docker-based infrastructure lab designed to simulate 
 ## Usage
 Start the environment:
 
-```bash
 docker compose up -d
 
-stop the environment
+stop the environment:
 
 docker compose down
 
-Access
+## Access
+
 Nginx: http://localhost:8080
 Prometheus: http://localhost:9090
 Grafana: http://localhost:3000
